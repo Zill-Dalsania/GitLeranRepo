@@ -7,7 +7,7 @@ class Cabbage
 	
 		Vegetable v=new Vegetable();
 		v.setCost(10);
-		System.out.println(v.getCost());
+		//System.out.println(v.getCost());
 	}
 
 }
