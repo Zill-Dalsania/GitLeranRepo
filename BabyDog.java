@@ -13,6 +13,7 @@ a1=new Dog();
 a1=new BabyDog();  
 a1.eat();  
 a1.eat();  
-a1.eat();  
+a1.eat(); 
+//hello 
 }  
 }  
